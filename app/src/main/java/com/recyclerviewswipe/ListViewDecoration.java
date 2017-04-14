@@ -21,7 +21,7 @@ import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.yanzhenjie.recyclerview.swipe.ResCompat;
+import com.recyclerview.swipe.ResCompat;
 
 /**
  * Created by Yan Zhenjie on 2016/7/27.

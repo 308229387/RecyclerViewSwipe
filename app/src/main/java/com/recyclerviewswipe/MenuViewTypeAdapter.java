@@ -21,7 +21,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.yanzhenjie.recyclerview.swipe.SwipeMenuAdapter;
+import com.recyclerview.swipe.SwipeMenuAdapter;
 
 import java.util.List;
 

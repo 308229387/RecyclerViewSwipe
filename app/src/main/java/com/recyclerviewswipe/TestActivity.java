@@ -7,12 +7,12 @@ import android.view.MenuItem;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.yanzhenjie.recyclerview.swipe.Closeable;
-import com.yanzhenjie.recyclerview.swipe.OnSwipeMenuItemClickListener;
-import com.yanzhenjie.recyclerview.swipe.SwipeMenu;
-import com.yanzhenjie.recyclerview.swipe.SwipeMenuCreator;
-import com.yanzhenjie.recyclerview.swipe.SwipeMenuItem;
-import com.yanzhenjie.recyclerview.swipe.SwipeMenuRecyclerView;
+import com.recyclerview.swipe.Closeable;
+import com.recyclerview.swipe.OnSwipeMenuItemClickListener;
+import com.recyclerview.swipe.SwipeMenu;
+import com.recyclerview.swipe.SwipeMenuCreator;
+import com.recyclerview.swipe.SwipeMenuItem;
+import com.recyclerview.swipe.SwipeMenuRecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
