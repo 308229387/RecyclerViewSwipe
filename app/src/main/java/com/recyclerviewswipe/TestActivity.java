@@ -82,7 +82,8 @@ public class TestActivity extends Activity {
                         .setText("微信")
                         .setWidth(width)
                         .setHeight(height);
-                swipeRightMenu.addMenuItem(wechatItem);
+                swipeLeftMenu.addMenuItem(wechatItem);
+                swipeRightMenu.addMenuItem(wechatItem);//可加可不加，加了就是两边
 
             } else if (viewType == MenuViewTypeAdapter.VIEW_TYPE_MENU_MULTI) { // 是需要添加多个菜单的Item。
                 SwipeMenuItem wechatItem = new SwipeMenuItem(mContext)
